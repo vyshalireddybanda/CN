@@ -24,7 +24,7 @@ int main(){
 	}
 	
 	printf("%s\n",flag);
-	printf("hello\n");
+	
 	
 	return 0;
 }
